@@ -10,9 +10,13 @@
 
 目前适配了APP端、H5端、微信小程序、百度小程序、QQ小程序、头条小程序，支付宝有报错，还未处理。
 
+后端基于mallplus多商户商城，springboot2 mybatis-plus，redis mysql vue
+
+https://gitee.com/zscat/mallplus
+
 ****
 
-仔仔H5模板交流QQ群：`707134214`
+交流QQ群：`725021772  123153551  `
 
 ****
 
@@ -122,6 +126,11 @@
 
 ****
 
-打赏：
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0319/100725_9f837e51_134431.png "屏幕截图.png")
 
-<img title="" src="https://cdn.nlark.com/yuque/0/2020/png/285274/1585816251127-assets/web-upload/10f2801f-6083-4c03-858d-5dc84634cbc3.png" alt="" width="305">  <img title="" src="https://cdn.nlark.com/yuque/0/2020/png/285274/1585816251205-assets/web-upload/787365c3-1e5c-4be6-8acd-f4d6c1c4f874.png" alt="" width="311">
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0319/100842_7130f521_134431.png "屏幕截图.png")
+
+多商户版本需要去总后台 微信小程序appId等信息 和3种支付信息配置
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0319/101040_3b698037_134431.png "屏幕截图.png")
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0319/101056_894e1f47_134431.png "屏幕截图.png")
